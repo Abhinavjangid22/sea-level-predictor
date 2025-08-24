@@ -47,3 +47,4 @@ This project analyzes historical sea level data and visualizes trends over time.
 3. Run the script:
 
 ```bash
+python sea_level_predictor.py
